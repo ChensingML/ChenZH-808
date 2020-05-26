@@ -4,7 +4,7 @@ This is the website for students of 808.
 Here are some sources for you:
   
   
-[八下政治整理 20200526 第三单元第五课]()
+[八下政治整理 20200526 第三单元第五课](https://github.com/ChensingML/ChenZH-808/raw/master/Sources/Pol/20200526/20200526.docx)
   
   
 Give me a star?  
