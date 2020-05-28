@@ -6,8 +6,8 @@
   
 ## 学习资源
 + 政治区  
-[八下政治 第一课到第六课要背的题](https://github.com/ChensingML/Our-808/raw/master/Sources/Menu/%E7%AC%AC%E4%B8%80%E8%AF%BE%E5%88%B0%E7%AC%AC%E5%85%AD%E8%AF%BE.txt)  
-[八下政治 整理 20200526 第三单元第五课](https://github.com/ChensingML/ChenZH-808/raw/master/Sources/Pol/20200526/20200526.docx)  
+[八下政治 第一课到第六课要背的题](https://gitee.com/ChensingML/Our-808/raw/master/Sources/Menu/%E7%AC%AC%E4%B8%80%E8%AF%BE%E5%88%B0%E7%AC%AC%E5%85%AD%E8%AF%BE.txt)  
+[八下政治 整理 20200526 第三单元第五课](https://gitee.com/ChensingML/Our-808/raw/master/Sources/Pol/20200526/20200526.docx)  
   
   
 ## 广告
