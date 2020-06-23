@@ -10,7 +10,7 @@
 	+ 政治整理  
    <a href="https://gitee.com/ChensingML/Our-808/raw/master/Sources/Pol/20200604_Re3/20200604_Re3.docx" download="八下政治 整理 20200604 第三单元第六课Re3.docx" target="_blank">八下政治 整理 20200604 第三单元第六课 发行第三版（最新）</a>  
 		+ 开发版本 - 正在开发，敬请期待，不建议打印  
-<a href="https://gitee.com/ChensingML/Our-808/raw/master/Sources/Pol/20200623/20200623.docx" download="八下政治 整理 20200623 第四单元第七课.docx" target="_blank">八下政治 整理 20200623 第三单元第七课</a>  
+<a href="https://gitee.com/ChensingML/Our-808/raw/master/Sources/Pol/20200623/20200623.docx" download="八下政治 整理 20200623 第四单元第七课.docx" target="_blank">八下政治 整理 20200623 第四单元第七课</a>  
 		+ 往期版本 - 这些文档内容不全，仅做备份，不推荐打印   
 <a href="https://gitee.com/ChensingML/Our-808/raw/master/Sources/Pol/20200603_Re2/20200603_Re2.docx" download="八下政治 整理 20200603 第三单元第六课Re2.docx" target="_blank">八下政治 整理 20200603 第三单元第六课 发行第二版</a>  
 <a href="https://gitee.com/ChensingML/Our-808/raw/master/Sources/Pol/20200529_Re1/20200529_Re1.docx" download="八下政治 整理 20200529 第三单元第六课Re1.docx" target="_blank">八下政治 整理 20200529 第三单元第六课 发行第一版</a>  
