@@ -8,7 +8,7 @@
 + 政治区  
 <a href="https://gitee.com/ChensingML/Our-808/raw/master/Sources/Menu/%E7%AC%AC%E4%B8%80%E8%AF%BE%E5%88%B0%E7%AC%AC%E5%85%AD%E8%AF%BE.txt" download="八下政治 第一课到第六课要背的题.txt" target="_blank">八下政治 第一课到第六课要背的题</a>  
 	+ 政治整理    
-	<a href="https://gitee.com/ChensingML/Our-808/raw/master/Sources/Pol/20200629_Re4/20200629_Re4.docx" download="八下政治 整理 20200604 全册Re4.docx" target="_blank">八下政治 整理 20200629 全册 发行第四版</a>
+	<a href="https://gitee.com/ChensingML/Our-808/raw/master/Sources/Pol/20200629_Re4/20200629_Re4.docx" download="八下政治 整理 20200604 全册Re4.docx" target="_blank">八下政治 整理 20200629 全册 发行第四版 （最新）</a>
 		+ 往期版本 - 这些文档内容不全，仅做备份，不推荐打印   
 <a href="https://gitee.com/ChensingML/Our-808/raw/master/Sources/Pol/20200604_Re3/20200604_Re3.docx" download="八下政治 整理 20200604 第三单元第六课Re3.docx" target="_blank">八下政治 整理 20200604 第三单元第六课 发行第三版</a>  
 <a href="https://gitee.com/ChensingML/Our-808/raw/master/Sources/Pol/20200623/20200623.docx" download="八下政治 整理 20200623 第四单元第七课.docx" target="_blank">八下政治 整理 20200623 第四单元第七课</a>  
